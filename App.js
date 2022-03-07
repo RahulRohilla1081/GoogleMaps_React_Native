@@ -33,7 +33,6 @@ export default class App extends Component {
           zoomControlEnabled={true} 
           scrollGestures={true} 
           rotateGestures={true}
-          showsUserLocation={true}
           myLocationButton={true}
           consumesGesturesInView={true}
           indoorPicker={true}
